@@ -14,7 +14,7 @@ body {
     background-color: #cad3da;
 }
 
-#header {
+#encabezado {
     height: 65vh;
     width: 100%;
     background-image: url('./IMG/monroyo-nieve-noviembre-202.jpg');
@@ -32,17 +32,17 @@ body {
     background-color: #cad3da;
 }
 
-.foto-not {
+.noticias-foto {
     margin-bottom: 2%;
     max-width: 100%;
     height: auto;
 }
 
-.h3-not {
+.titulo-noticias {
     font-size: 22px;
 }
 
-.encabezado-not {
+.noticias-cabeza {
     text-align: justify;
     margin-top: 2%;
 }
